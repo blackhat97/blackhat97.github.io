@@ -1,6 +1,4 @@
-[![](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/wild-flame)
-
-# jekyll-simple
+# IT blog written by Johnny Park
 
 ## simple
 simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
@@ -20,3 +18,4 @@ So mobile goes first, then the macOS.
 ## ^-^
 
 You can click the button [Say Thanks!](https://saythanks.io/to/wild-flame) at the first of README if you use/like my project. :D
+
